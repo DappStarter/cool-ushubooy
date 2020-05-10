@@ -1,0 +1,15 @@
+{
+    "name": "First-Jurnal-App",
+    "blocks": {
+        "/blockchain/ethereum": true,
+        "/blockchain/ethereum/solidity": true,
+        "/framework/react": true,
+        "/category/file_storage/sia": true,
+        "/category/file_storage/sia/mode": "single",
+        "/category/asset_value_tracking/token": true,
+        "/category/asset_value_tracking/token/name": "UsmanAPPs",
+        "/category/asset_value_tracking/token/symbol": "UApp",
+        "/category/asset_value_tracking/token/decimals": "18",
+        "/category/asset_value_tracking/token/supply": "1000000"
+    }
+}
